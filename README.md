@@ -11,7 +11,3 @@ Do you want to contact me?
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafrol/)](https://www.linkedin.com/in/rafrol/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/eurafrol/)](https://www.instagram.com/eurafrol/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafroliveira@gmail.com)](mailto:rafroliveira@gmail.com)
-
-***
-
-![](https://komarev.com/ghpvc/?username=rafrol)
