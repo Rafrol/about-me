@@ -1,6 +1,6 @@
 # Hi, there!
 
-I'm Ramon and this is my GitHub. I'm bachelor in Accounting from the Universidade Federal do Rio de Janeiro (UFRJ) and I am in the beginning of my degree in Computer Science from Universidade Estácio de Sá (UNESA). I'm currently looking for a first opportunity in the Tech field with a focus on data-related internships.
+I'm Ramon and this is my GitHub. I'm bachelor in Accounting at Universidade Federal do Rio de Janeiro (UFRJ) and I am in the beginning of my degree in Computer Science at Universidade Estácio de Sá (UNESA). I'm currently looking for a first opportunity in the Tech field with a focus on data-related internships.
 
 This GitHub aims to store all my projects since the beginning of this new career in my life, as well as helping anyone who is going through the same learning process as me.
 
