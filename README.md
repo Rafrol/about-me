@@ -1,8 +1,10 @@
 # Hi, there!
 
-I'm Ramon and this is my GitHub. I'm bachelor in Accounting at Universidade Federal do Rio de Janeiro (UFRJ) and I am in the beginning of my degree in Computer Science at Universidade Estácio de Sá (UNESA). I'm currently looking for a first opportunity in the Tech field with a focus on data-related internships.
+Graduated in Accounting at the Universidade Federal do Rio de Janeiro (UFRJ) and graduating in Computer Science at Universidade Estácio de Sá (UNESA). My interests are in the field of Data Science and also its application to Football. I recently earned my first PFSA certifications, and over the next few months I will be working to not only achieve all available PFSA certifications, but certifications with CONMEBOL and CBF.
 
-This GitHub aims to store all my projects since the beginning of this new career in my life, as well as helping anyone who is going through the same learning process as me.
+I have a good level of knowledge, but always in constant learning and evolution, of Python, SQL, Pandas and Microsoft Excel. I earned experience in the financial and accounting sector, as well as an entrepreneur in the grocery and food sector during the pandemic.
+
+Today i'm looking for my first opportunity in the Data Science sector or Football Analyst, as well as opportunities in the financial and accounting sector are welcome, too.
 
 ***
 
