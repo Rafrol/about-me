@@ -1,10 +1,10 @@
 # Hi, there!
 
-Graduated in Accounting at the Universidade Federal do Rio de Janeiro (UFRJ) and graduating in Computer Science at Universidade Estácio de Sá (UNESA). My interests are in the field of Data Science and also its application to Football. I recently earned my first PFSA certifications, and over the next few months I will be working to not only achieve all available PFSA certifications, but certifications with CONMEBOL and CBF.
+Graduated in Accounting at the Universidade Federal do Rio de Janeiro (UFRJ) and graduating in Computer Science at Universidade Estácio de Sá (UNESA). Also studying a new Postgraduate degree in Data Science at Descomplica Faculdade Digital. The interests are in the field of Data Science and also its application to Football. Recently earned the first PFSA (Level 1) and CONMEBOL certifications.
 
-I have a good level of knowledge, but always in constant learning and evolution, of Python, SQL, Pandas and Microsoft Excel. I earned experience in the financial and accounting sector, as well as an entrepreneur in the grocery and food sector during the pandemic.
+Good level of knowledge, but always in constant learning and evolution, of Python, Pandas and Microsoft Excel. Experience in the financial and accounting sector, as well as an entrepreneur in the grocery and food sector during the pandemic.
 
-Today i'm looking for my first opportunity in the Data Science sector or Football Analyst, as well as opportunities in the financial and accounting sector are welcome, too.
+Today looking for the first opportunity in Data Science, Football Data Science, Football Scouting or Football Performance Analyst, as well as opportunities in the financial and accounting sector are still welcome, too.
 
 ***
 
